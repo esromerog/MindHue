@@ -5,6 +5,7 @@ Este documento estará divido en las distintas secciones donde hay interacción 
 ## Antes de empezar
 ### Instalar las dependencias
 *Importante:* el programa fue desarrollado en macOS. En Windows se conoce un error con el que las canciones sólo despliegan las primeras notas y es por ello que la experiencia del usuario puede ser muy diferente.
+Video del desarrollo: https://youtu.be/x0U5TzOLUlI
 
 Antes de comenzar y poder correr el código como usuario, es importante tomar en cuenta que se deben instalar las dos bibliotecas utilizadas para el proyecto. Durante el proceso se trabajó en un ambiente virtual, sin embargo, se asume que el usuario tendrá acceso a Python 3 para instalar las bilbiotecas y que manejará sus propios ambientes de desarrollo. Las únicas dos bibliotecas adicionales son `keyboard` y `audioplayer`. Se pueden instalar por separado en el Command Prompt (Windows) o Terminal (macOS) usando:
 * `pip install keyboard`
